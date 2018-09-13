@@ -1,0 +1,13 @@
+<widget id="A6081373399624"  version="0.0.1">
+    <name>API Example</name>
+    <description>
+        API Example App.
+    </description>
+    <author email="developer@apicloud.com" href="//www.apicloud.com">
+        APICloud.SIR
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="windowBackground" value="#FFF" />
+    <permission name="call" />
+</widget>
